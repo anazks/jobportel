@@ -53,7 +53,7 @@ switch ($view) {
 		$content='advancesearchresult.php';		
 		break;
 	case 'search-company' :
-        $title='Search by Company';	
+        $title='Search by Companies';	
 		$content='searchbycompany.php';		
 		break;	
 	case 'search-function' :
